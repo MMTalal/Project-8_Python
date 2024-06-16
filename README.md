@@ -27,7 +27,7 @@ The Temperature Conversion Tool is a Python script that allows users to input a 
      ```
    - Run the script using Python:
      ```sh
-     python temperature_conversion.py
+     python Temperature Converter.py
      ```
 
 3. **Input Temperature and Unit**
