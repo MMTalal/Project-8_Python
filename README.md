@@ -23,7 +23,7 @@ The Temperature Conversion Tool is a Python script that allows users to input a 
 2. **Run the Script**
    - Navigate to the directory containing the script:
      ```sh
-     cd Project-8_Python
+     cd Temperature Converter
      ```
    - Run the script using Python:
      ```sh
